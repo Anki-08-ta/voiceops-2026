@@ -1,0 +1,15 @@
+﻿id,question,expected_decision,answerable,gold_evidence,reference_answer,generated_answer,evidence_count,product_count,status,error_message
+PQ0002,SKU ELE-0012 pe ZentroMart Assured hai kya? Claim kaise karein?,answer,True,WAR-2 ; products.csv:ELE-0012,"Haan, 12 mahine ki Assured warranty hai; claim app mein My Orders se karein.","Hello! Main ZentroMart ka AI customer-support assistant hoon.
+
+Haan, **SKU ELE-0012 (Kestrel K7 Smartphone 128 GB, Beige)** par ZentroMart Assured warranty uplabdh hai (`assured: True`), jo delivery date se 12 mahine ke liye valid hoti hai.
+
+**Claim karne ka tarika:**
+1. ZentroMart app mein **My Orders** section mein jayein.
+2. Wahan se apna claim raise karein.
+3. Iske baad ZentroMart product ka pickup arrange karega aur repair ya replacement provide karega.",4,1,success,
+PQ0003,How fast are refunds to the ZentroMart Wallet?,answer,True,REF-2 ; KB-00.1,"Instant, within 2 hours of initiation.","Hello! I am the AI customer-support assistant for ZentroMart.
+
+Refunds to the ZentroMart Wallet are processed instantly, within 2 hours once the refund is initiated. This timeline applies both to original payments made using the Wallet and to cash-on-delivery orders where a Wallet refund is chosen.",4,0,success,
+PQ0004,Can I schedule a delivery at midnight?,answer,False,,"Sorry, I don't have information about that. I can connect you to a colleague who can help.","Hello! I am the AI customer-support assistant for ZentroMart. 
+
+Based on our current delivery policies, we cannot confirm whether deliveries can be scheduled for specific times such as midnight. Our policies outline delivery timelines by business days (Standard and Express delivery) and provide a promised delivery date at checkout, but they do not contain information regarding midnight or time-specific delivery scheduling.",4,0,success,

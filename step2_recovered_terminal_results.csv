@@ -1,0 +1,78 @@
+﻿id,question,generated_answer,evidence_count,product_count,status,recovery_source
+PQ0002,SKU ELE-0012 pe ZentroMart Assured hai kya? Claim kaise karein?,"Hello! I am the AI customer-support assistant for ZentroMart.
+
+Yes, SKU ELE-0012 (Kestrel K7 Smartphone 128 GB, Beige) is marked as assured = True and is fulfilled by ZentroMart.
+
+Therefore, it comes with a 12-month ZentroMart Assured warranty from the delivery date (in addition to the brand warranty).
+
+Claim kaise karein (How to claim):
+1. ZentroMart app mein My Orders section mein jaakar claim raise karein.
+2. ZentroMart product ka pickup arrange karega aur repair ya replacement provide karega.
+
+Note: Warranty mein physical damage, liquid damage, normal wear and tear, aur unauthorised repairs cover nahi hote hain.",4,1,success,Recovered from terminal output; not recovered from original CSV
+PQ0003,How fast are refunds to the ZentroMart Wallet?,"Hello! I am the AI customer-support assistant for ZentroMart.
+
+Once initiated, refunds to your ZentroMart Wallet are instant, taking place within 2 hours. This applies to both original Wallet payments and cash-on-delivery orders refunded to the Wallet.",4,0,success,Recovered from terminal output; not recovered from original CSV
+PQ0004,Can I schedule a delivery at midnight?,"Hello! I am the AI customer-support assistant for ZentroMart.
+
+Based on our current delivery policies, we provide delivery timeframes by business days (Standard and Express delivery), but our policies do not contain information about scheduling deliveries for specific hours such as midnight. Therefore, I cannot confirm if midnight delivery is available.",4,0,success,Recovered from terminal output; not recovered from original CSV
+PQ0005,SKU ELE-0002 pe ZentroMart Assured hai kya? Claim kaise karein?,"Hello! I am an AI customer-support assistant for ZentroMart.
+
+Haan, SKU ELE-0002 (Nimbus X2 Wireless Earbuds, Black) par ZentroMart Assured warranty available hai. Product catalog mein yeh item assured: True mark hai aur ZentroMart dwara fulfill kiya jata hai. Isme delivery date se 12-month ki ZentroMart Assured warranty milti hai (brand warranty ke alawa).
+
+Claim kaise karein:
+1. ZentroMart app mein My Orders section mein jayein.
+2. Wahan se aap warranty claim raise kar sakte hain.
+3. Claim raise hone ke baad, ZentroMart pickup aur repair ya replacement arrange karega.
+
+Dhyan dein: Physical damage, liquid damage, normal wear aur unauthorized repairs is warranty ke antargat cover nahi hote hain.",4,1,success,Recovered from terminal output; not recovered from original CSV
+PQ0006,"As a ZentroMart Plus member, will I be charged the pickup fee for returning shoes I just don't like?","Hello! I am the AI customer-support assistant for ZentroMart.
+
+No, you will not be charged a pickup fee. While a reverse pickup fee of ₹49 normally applies to change-of-mind returns for footwear, this fee is waived for ZentroMart Plus members. (Please note that the return window for footwear is 15 days from the delivery date.)",4,0,success,Recovered from terminal output; not recovered from original CSV
+PQ0008,"credit card wala refund 17 October 2026 ko shuru hua, kab tak aa jaana chahiye?","Namaste! Main ZentroMart ka AI customer-support assistant hoon.
+
+ZentroMart ki refund policy ke mutabiq, credit card par refund initiate hone ke baad aapke account mein aane mein 5 se 7 business days (karyadiwas) ka samay lagta hai.
+
+Chunki aapka refund 17 October 2026 ko shuru hua tha, yeh initiation date se 5 se 7 business days ke andar aapke account mein pahunch jana chahiye.",4,0,success,Recovered from terminal output; not recovered from original CSV
+PQ0009,Is there a student discount?,"Hello! I am the AI customer-support assistant for ZentroMart.
+
+Currently, I do not have any policy information regarding student discounts, so I cannot confirm whether one is offered. Please check back later or reach out to our support team for further updates.",0,0,success,Recovered from terminal output; not recovered from original CSV
+PQ0010,Is the collection free if the UrbanThread Slim Fit Jeans came torn?,"Hello! I am the AI customer-support assistant for ZentroMart.
+
+Yes, the collection (reverse pickup) is free. According to our policy, no reverse pickup fee applies to any item returned because it arrived damaged, defective, or wrong.
+
+Please make sure to report the damaged item within 48 hours of delivery and provide photos of the item and its packaging so it can be verified for a free replacement or full refund.
+
+Note: While specific product data for UrbanThread Slim Fit Jeans was not provided in the records, our damaged item policy applies to all damaged items.",4,0,success,Recovered from terminal output; not recovered from original CSV
+PQ0013,"मैंने Gulmohar Matte Lipstick खोल लिया है, क्या अब भी वापस कर सकती हूँ?","नमस्ते! मैं ZentroMart का AI कस्टमर सपोर्ट असिस्टेंट हूँ।
+
+जी नहीं, आप इसे वापस नहीं कर सकती हैं।
+
+हमारी रिटर्न पॉलिसी के अनुसार, Gulmohar Matte Lipstick ब्यूटी और पर्सनल केयर (beauty_sealed) श्रेणी में आती है। इस श्रेणी के उत्पाद केवल तभी वापस (रिटर्न) किए जा सकते हैं जब वे बिना खुले हों और उनकी सील बरकरार हो (unopened with seal intact)।
+
+चूंकि आपने लिपस्टिक खोल ली है, इसलिए यह रिटर्न के लिए पात्र नहीं है।",4,1,success,Recovered from terminal output; not recovered from original CSV
+PQ0014,मुझे Pagecraft A5 Ruled Notebook (Pack of 4) लौटाने के लिए कितने दिन मिलेंगे?,"नमस्ते! मैं ZentroMart का AI कस्टमर-सपोर्ट असिस्टेंट हूँ।
+
+हमारे प्रोडक्ट कैटलॉग और रिटर्न पॉलिसी के अनुसार, Pagecraft A5 Ruled Notebook (Pack of 4) 'Books and stationery' (books_media) श्रेणी में आता है.
+
+इस प्रोडक्ट को लौटाने के लिए आपको डिलीवरी की तारीख से 10 दिन (कैलेंडर दिन) का समय मिलेगा।",4,1,success,Recovered from terminal output; not recovered from original CSV
+PQ0015,Bulk order pe GST invoice milega kya?,"Hello! I am the AI customer-support assistant for ZentroMart.
+
+Currently, I do not have policy information regarding GST invoices for bulk orders, so I cannot confirm whether one can be provided. Please contact our customer support team directly for assistance with bulk order inquiries.",0,0,success,Recovered from terminal output; not recovered from original CSV
+PQ0016,I opened the Neelam Eau de Parfum 50 ml and tried it once. Can I still return it?,"Hello! I am the AI customer-support assistant for ZentroMart.
+
+No, you cannot return the Neelam Eau de Parfum 50 ml.
+
+According to our product catalog, this item falls under the beauty_sealed category. Per our returns policy, beauty and personal care products are only eligible for return if they are unused, unopened, and have their seal intact. Since the perfume has been opened and tried, it cannot be returned.",4,1,success,Recovered from terminal output; not recovered from original CSV
+PQ0018,कितने दिन में वापस करना होगा?,"नमस्ते! मैं ZentroMart का AI ग्राहक सहायता सहायक (AI customer-support assistant) हूँ।
+
+वापसी (रिटर्न) की समय-सीमा डिलीवरी की तारीख से शुरू होती है और यह उत्पाद की श्रेणी (category) पर निर्भर करती है:
+- इलेक्ट्रॉनिक्स और एक्सेसरीज़ (Electronics and accessories): 7 दिन
+- कपड़े, जूते और बैग (Clothing, footwear and bags): 15 दिन
+- होम, किचन और फर्नीचर (Home, kitchen and furniture): 10 दिन
+- किताबें और स्टेशनरी (Books and stationery): 10 दिन
+- ब्यूटी और पर्सनल केयर (Beauty and personal care - सीलबंद): 7 दिन
+- किराना (Grocery/perishables), इनरवियर (Innerwear) और गिफ्ट कार्ड (Gift cards): वापस नहीं किए जा सकते (Not returnable)।
+
+यदि आप किसी विशिष्ट उत्पाद के बारे में जानना चाहते हैं, तो कृपया उसका नाम या विवरण साझा करें।",4,0,success,Recovered from terminal output; not recovered from original CSV
+PQ0019,My Orbix Fit 3 Pro Smartwatch was delivered on 20 July. What was the return window for it?,,0,0,error,Question shown in terminal; Gemini API returned 429 before answer was generated

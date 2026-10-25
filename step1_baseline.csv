@@ -1,0 +1,18 @@
+﻿id,question,expected_decision,answerable,gold_evidence,reference_answer,generated_answer,status,error_message
+PQ0002,SKU ELE-0012 pe ZentroMart Assured hai kya? Claim kaise karein?,answer,True,WAR-2 ; products.csv:ELE-0012,"Haan, 12 mahine ki Assured warranty hai; claim app mein My Orders se karein.","Namaste! Main ZentroMart ka AI customer-support assistant hoon.
+
+Mujhe khed hai, lekin mere paas specific product details jaise SKU ELE-0012 ki live jankari access karne ki suvidha nahi hai, isliye main yeh confirm nahi kar sakta ki is par ""ZentroMart Assured"" uplabdh hai ya nahi. 
+
+Aap ZentroMart app ya website par product page check kar sakte hain—agar wahan ""ZentroMart Assured"" ka badge dikh raha hai, toh woh product covered hai. 
+
+ZentroMart Assured ke claim process aur policy ki sahi jankari ke liye, kya aap chahenge ki main aapko hamare human support team se connect karne mein madad karoon?",success,
+PQ0003,How fast are refunds to the ZentroMart Wallet?,answer,True,REF-2 ; KB-00.1,"Instant, within 2 hours of initiation.","Hello! I am ZentroMart's AI customer-support assistant. 
+
+I do not have the exact policy details regarding the processing timeframe for refunds to the ZentroMart Wallet, and I want to ensure you receive the correct information. 
+
+Would you like me to put you in touch with a human colleague from our support team who can check this for you?",success,
+PQ0004,Can I schedule a delivery at midnight?,answer,False,,"Sorry, I don't have information about that. I can connect you to a colleague who can help.","Hello! I am ZentroMart's AI customer support assistant. 
+
+I do not have specific information on whether midnight deliveries are supported, as available delivery slots depend on your location and our operating hours. Typically, you can view all eligible time slots for your address during checkout.
+
+If you would like confirmation, I would be happy to connect you with a human colleague to assist you further.",success,
